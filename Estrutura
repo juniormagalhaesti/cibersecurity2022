@@ -1,8 +1,8 @@
 Exemplo:
 Srv 1 - Firewall:
  - Nome da maquina: firewallsrv
- - Mac: 00:1B:C9:4B:E3:57
- - IP: 192.168.0.0/24
+ - Mac: 08:00:27:D0:61:95
+ - IP: 10.0.2.15
 
 Srv 2 - IDS/IPS
  - Nome da maquina: idssvr
